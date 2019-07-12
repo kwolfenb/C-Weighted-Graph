@@ -1,0 +1,7 @@
+C:\Users\KennyWolfenberger\source\repos\Weighted_graph\Weighted_graph\bin\Debug\Weighted_graph.exe.config
+C:\Users\KennyWolfenberger\source\repos\Weighted_graph\Weighted_graph\bin\Debug\Weighted_graph.exe
+C:\Users\KennyWolfenberger\source\repos\Weighted_graph\Weighted_graph\bin\Debug\Weighted_graph.pdb
+C:\Users\KennyWolfenberger\source\repos\Weighted_graph\Weighted_graph\obj\Debug\Weighted_graph.csprojAssemblyReference.cache
+C:\Users\KennyWolfenberger\source\repos\Weighted_graph\Weighted_graph\obj\Debug\Weighted_graph.csproj.CoreCompileInputs.cache
+C:\Users\KennyWolfenberger\source\repos\Weighted_graph\Weighted_graph\obj\Debug\Weighted_graph.exe
+C:\Users\KennyWolfenberger\source\repos\Weighted_graph\Weighted_graph\obj\Debug\Weighted_graph.pdb
